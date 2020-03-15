@@ -1,2 +1,2 @@
 # toy-easy-for-u
-For practice speech recognition based Ionic 5
+For my practice speech recognition based Ionic 5
