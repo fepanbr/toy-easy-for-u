@@ -1,0 +1,7 @@
+{
+  "name": "EasyForU",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

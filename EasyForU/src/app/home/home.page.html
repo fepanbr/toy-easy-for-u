@@ -1,0 +1,15 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      IONIC CAPACITOR DEMO
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content padding>
+  <div ngif="takenPicture">
+    <img [src]="takenPicture" />
+  </div>
+  <ion-button (click)="startSpeechRecognition()">
+    음성인식 시작
+  </ion-button>
+</ion-content>
